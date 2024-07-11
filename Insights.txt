@@ -1,0 +1,16 @@
+﻿West had the highest Sum of Sales at 522,441.05, followed by East, Central, and South.﻿﻿
+﻿﻿
+﻿﻿West accounted for 33.37% of Sum of Sales.﻿﻿
+﻿﻿
+﻿﻿Total Sum of Sales was higher for 2020 (1,001,124.79) than 2019 (564,679.54).﻿﻿
+﻿﻿
+﻿﻿December in Year 2020 made up 10.61% of Sum of Sales.﻿﻿
+﻿﻿
+﻿﻿Average Sum of Profit was higher for 2020 (7,786.56) than 2019 (6,818.62).﻿﻿
+﻿﻿
+﻿﻿Sum of Profit for 2020 and 2019 diverged the most when the Month was March, when 2020 were 11,139.92 higher than 2019.﻿﻿
+﻿﻿
+﻿﻿At 196,563.55, Phones had the highest Sum of Sales and was 12.34% higher than Binders, which had the lowest Sum of Sales at 174,978.39.﻿﻿
+﻿﻿
+﻿﻿Phones had 196,563.55 Sum of Sales, Binders had 174,978.39, and Chairs had 181,946.00.﻿﻿
+﻿
